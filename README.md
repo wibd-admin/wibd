@@ -1,2 +1,1 @@
-# wibd
-Women in Big Data
+# WiBD - Women in Big Data
